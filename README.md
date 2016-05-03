@@ -1,6 +1,5 @@
-# NQueensBFS
-
-Solutions For Code :
+#Solutions For Code :
+(X: Queen)
 
 Solution : [2, 4, 1, 3] ;
 
